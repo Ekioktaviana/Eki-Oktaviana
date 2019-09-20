@@ -1,0 +1,15 @@
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\bin\Release\WIKRAMART.exe
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\bin\Release\WIKRAMART.pdb
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\bin\Release\WIKRAMART.xml
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.FormAdmin.resources
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.Formibarang.resources
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.Formijenisbarang.resources
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.Formiuser.resources
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.FormLogin.resources
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.Formtransaksi.resources
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.Resources.resources
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.vbproj.GenerateResource.Cache
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.exe
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.xml
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.pdb
+C:\Users\xRaptorz\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Release\WIKRAMART.Formbarang.resources

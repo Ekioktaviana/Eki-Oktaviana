@@ -1,0 +1,37 @@
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\bin\Debug\WIKRAMART.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\bin\Debug\WIKRAMART.pdb
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\bin\Debug\WIKRAMART.xml
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formadmin2.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formkasir.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formtest.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.FormAdmin.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formbarang.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formijenisbarang.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formiuser.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.FormLogin.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formowner.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formtransaksi.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\Formtransaksi.vb.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.xml
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.pdb
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.exe
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.xml
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.pdb
+D:\WIKRAMART\WIKRAMART\bin\Debug\WIKRAMART.exe
+D:\WIKRAMART\WIKRAMART\bin\Debug\WIKRAMART.pdb
+D:\WIKRAMART\WIKRAMART\bin\Debug\WIKRAMART.xml
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formadmin2.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formkasir.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formtest.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.FormAdmin.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formbarang.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formijenisbarang.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formiuser.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.FormLogin.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formowner.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formtransaksi.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Resources.resources
+D:\WIKRAMART\WIKRAMART\obj\x86\Debug\Formtransaksi.vb.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\WIKRAMART\WIKRAMART\obj\x86\Debug\WIKRAMART.Formstruk.resources
